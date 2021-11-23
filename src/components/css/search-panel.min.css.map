@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,aAAa,AAAC,CACV,UAAU,CAAE,IAAI,CAChB,OAAO,CAAE,IAAI,CACb,gBAAgB,CCJD,OAAO,CDKtB,KAAK,CCJI,IAAO,CDKhB,aAAa,CAAE,GAAG,CAClB,UAAU,CAAE,IAAI,CAAC,IAAI,CAAC,IAAI,CAAC,gBAAgB,CAAG",
+    "sources": [
+        "../search-panel/search-panel.sass",
+        "../search-panel/vars-search-panel.sass"
+    ],
+    "names": [],
+    "file": "search-panel.min.css"
+}

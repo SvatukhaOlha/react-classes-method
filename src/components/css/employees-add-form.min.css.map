@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,aAAa,AAAC,CACV,UAAU,CAAE,IAAI,CAChB,OAAO,CAAE,IAAI,CACb,gBAAgB,CCJD,OAAO,CDKtB,aAAa,CAAE,GAAG,CAClB,UAAU,CAAE,IAAI,CAAC,IAAI,CAAC,IAAI,CAAC,gBAAgB,CAC3C,KAAK,CCNI,IAAO,CDaW,AAb/B,AAOI,aAPS,CAOT,SAAS,AAAC,CACN,UAAU,CAAE,IAAI,CAKK,AAb7B,AASQ,aATK,CAOT,SAAS,CAEL,KAAK,AAAC,CACF,KAAK,CAAE,KAAK,CACZ,YAAY,CAAE,IAAI,CAAG,AAXjC,AAYQ,aAZK,CAOT,SAAS,CAKL,MAAM,AAAC,CACH,KAAK,CAAE,KAAK,CAAG",
+    "sources": [
+        "../employees-add-form/employees-add-form.sass",
+        "../employees-add-form/vars-employees-add-form.sass"
+    ],
+    "names": [],
+    "file": "employees-add-form.min.css"
+}

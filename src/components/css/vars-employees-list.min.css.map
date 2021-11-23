@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../employees-list/vars-employees-list.sass"
+    ],
+    "names": [],
+    "file": "vars-employees-list.min.css"
+}

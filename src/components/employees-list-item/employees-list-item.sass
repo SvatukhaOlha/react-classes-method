@@ -1,0 +1,43 @@
+@import 'vars-employees-list-item'
+.list-group-item
+	padding: 15px 20px
+	border-bottom: 1px solid $background-color
+	&::last-child
+		border-bottom: none
+	span
+		@include fs-lh
+		cursor:pointer
+		min-width: 550px
+	input
+		@include fs-lh
+		text-align: center
+		border: 0
+	button
+		@include w-h
+		margin: 3px
+		font-size: 17px
+		border: none
+		cursor: pointer
+	.btn-cookie
+		color: $background-color
+	.btn-trash
+		color: $delete-icon
+	.fa-star
+		@include w-h
+		text-align: center
+		line-height: 35px
+		font-size: 16px
+		color: $secondary-color
+		transition: 0.3s all
+		transform: translateX(30px)
+		opacity: 0
+.list-group-item.like
+	.fa-star
+		opacity: 1
+		transform: translateX(0px)
+.list-group-item.increase
+	span, input
+		color: $secondary-color
+	.btn-star
+		color: $disabled-color
+

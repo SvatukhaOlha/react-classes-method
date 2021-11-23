@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../search-panel/vars-search-panel.sass"
+    ],
+    "names": [],
+    "file": "vars-search-panel.min.css"
+}

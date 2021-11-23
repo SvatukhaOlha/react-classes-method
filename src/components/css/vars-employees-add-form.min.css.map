@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../employees-add-form/vars-employees-add-form.sass"
+    ],
+    "names": [],
+    "file": "vars-employees-add-form.min.css"
+}

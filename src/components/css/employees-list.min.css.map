@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,SAAS,AAAC,CACT,UAAU,CAAE,IAAI,CAChB,gBAAgB,CCHE,OAAO,CDIzB,KAAK,CCHO,IAAO,CDInB,aAAa,CAAE,GAAG,CAClB,UAAU,CAAE,IAAI,CAAC,IAAI,CAAC,IAAI,CAAC,gBAAgB,CAAG",
+    "sources": [
+        "../employees-list/employees-list.sass",
+        "../employees-list/vars-employees-list.sass"
+    ],
+    "names": [],
+    "file": "employees-list.min.css"
+}
